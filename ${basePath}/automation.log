@@ -1,0 +1,16 @@
+15:30:25.740 [main] INFO  api.test.UsersTest - ------- Creating User --------
+15:30:29.923 [main] INFO  api.test.UsersTest - ------- User Created --------
+15:30:29.930 [main] INFO  api.test.UsersTest - ------- Reading User Info --------
+15:30:32.685 [main] INFO  api.test.UsersTest - ------- User Info is displayeds --------
+23:34:17.729 [main] INFO  api.test.UsersTest2 - ------- Creating User --------
+23:34:21.306 [main] INFO  api.test.UsersTest2 - ------- User Created --------
+23:34:21.328 [main] INFO  api.test.UsersTest2 - ------- Reading User Info --------
+23:34:23.365 [main] INFO  api.test.UsersTest2 - ------- User Info is displayed --------
+15:26:22.076 [main] INFO  api.test.UsersTest2 - ------- Creating User --------
+15:26:25.717 [main] INFO  api.test.UsersTest2 - ------- User Created --------
+15:26:25.732 [main] INFO  api.test.UsersTest2 - ------- Reading User Info --------
+15:26:27.282 [main] INFO  api.test.UsersTest2 - ------- User Info is displayed --------
+22:21:42.465 [main] INFO  api.test.UsersTest2 - ------- Creating User --------
+22:21:46.013 [main] INFO  api.test.UsersTest2 - ------- User Created --------
+22:21:46.025 [main] INFO  api.test.UsersTest2 - ------- Reading User Info --------
+22:21:47.477 [main] INFO  api.test.UsersTest2 - ------- User Info is displayed --------
